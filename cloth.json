@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "lights": {
+      "auto": false,
+      "time": false
+    },
+    "warning": {
+      "enabled": true,
+      "autoalert": true,
+      "quietmode": true,
+      "repeatalert": false
+    },
+    "cloth": {
+      "raintips": false
+    },
+    "windows": {
+      "raintips": true,
+      "airtips": false,
+      "quietmode": true,
+      "tipmode": "positive"
+    }
+  }
+}
